@@ -1,6 +1,6 @@
 - [x] Upload project proposal to D2l and get approval. (CK and EM)
 - [x] Create repository called Discharge-Planning-App in ksu Github. (CK)
-- [x] Add README file with project description to repository. (CK)
+- [x] Add README file with project description to repository. (CK and EM)
 - [x] Find example code that may be used. (CK and EM)
 - [x] Discover how to edit and make commited changes in repository (CK and EM)
 - [ ] Run said example code and see if it works, and aligns with our discharge planning app. (CK and EM)
