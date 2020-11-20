@@ -8,13 +8,14 @@ Example:
 25-49.9 - Moderate probability for readmisssion
 0-24.9 - Low probability for readmission
 
+
 The code may not always be functional.
 
 # Installation
 [placeholder]
 
-# Description
-Here we will put more information on what we will be doing once we find more code
+# Purpose
+The purpose of this is to better the discharge planning of patient's who have diabetes. If a member has a high readmission risk, the patient's medical team can incorporate other healthcare members into their care, such as case managers, their insurance company, and even family members who are willing to help. 
 
 # Credits
 Chelsey King 
