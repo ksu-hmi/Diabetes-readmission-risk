@@ -1,5 +1,6 @@
-# Discharge-Planning & Risk-Calculation-App
-This project will be an app to help with follow-up appointments after a discharge to decrease re-admission rates. In addition to helping schedule and track follow-up appointments, the app will calculate a readmission risk number based on clinical indicators and social determinents of health. This risk number will help clinicians determine if the patient is ready for discharge. For example, a score of 75 would indicate a 75% chance of readmission. The organization utlizing the app would set thresholds internally on what they find as acceptable levels of risk for readmission and these would guide the discharge decisions.
+# Risk-Calculation for readmissions for Diabetics
+This project will help determine the readmission risk for diabetic patients. Specifically on insulin vs oral medication dependent diabetics. We will determine if members who use insulin or oral diabetic medicaitons, metformin, are more prone to readmission. 
+We will calculate a readmission risk number based on their medications, clinical indicators and social determinents of health. This risk number will help clinicians determine if the patient is at a higher risk for readmission. For example, a score of 75 would indicate a 75% chance of readmission. This will help organizations set thresholds internally on what they find as acceptable levels of risk for readmission and these would guide the discharge decisions.
 
 Example:
 75-100 - Very high probability for readmission
