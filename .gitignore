@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 Hospital-Readmission-Prediction/
 .DS_Store
+.DS_Store
+Diabetes-readmission-risk/
+.DS_Store
