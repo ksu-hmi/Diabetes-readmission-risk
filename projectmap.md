@@ -7,7 +7,8 @@
 - [x] Decide what example code we will use (CK and EM)
 - [x] Use updated code, as stated in documentation (CK and EM)
 - [x] Make changes to example code that we decide to improve on (CK and EM)-work in progress
-- [ ] Continue to make progress and changes to code (CK and EM)
+- [x] Continue to make progress and changes to code (CK and EM)
+       * Working with Chelsey to identify the best code for our project
 - [ ] Fix any errors or research solutions to our errors (CK and EM)
 - [ ] Finalize code and make sure there are no errors (CK and EM)
 - [ ] Make Powerpoint presentation (CK and EM)
