@@ -3,13 +3,13 @@
 - [x] Add README file with project description to repository. (CK and EM)
 - [x] Find example code that may be used. (CK and EM)
 - [x] Discover how to edit and make commited changes in repository (CK and EM)
-- [x] Run said example code and see if it works, and aligns with our discharge planning app. (CK and EM)
+- [x] Run said example code and see if it works, and aligns with our discharge planning app. (CK and EM) changed plans, now looking at diabetes readmission rates
 - [x] Decide what example code we will use (CK and EM)
 - [x] Use updated code, as stated in documentation (CK and EM)
-- [x] Make changes to example code that we decide to improve on (CK and EM)-work in progress
+- [x] Make changes to example code that we decide to improve on (CK and EM)
 - [x] Continue to make progress and changes to code (CK and EM)
        * Working with Chelsey to identify the best code for our project
-- [ ] Fix any errors or research solutions to our errors (CK and EM)
-- [ ] Finalize code and make sure there are no errors (CK and EM)
-- [ ] Make Powerpoint presentation (CK and EM)
+- [x] Fix any errors or research solutions to our errors (CK and EM)
+- [x] Finalize code and make sure there are no errors (CK and EM) -still have errors
+- [x] Make Powerpoint presentation (CK and EM)
 - [ ] Final presentation in Teams (CK and EM)
